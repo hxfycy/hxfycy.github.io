@@ -7,5 +7,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor 
 
 <img src="https://github.com/hxfycy/hxfycy.github.io/blob/master/assets/img/projects/proj-5/cv_pdf.png" width = "1190" height = "3367" alt="Avatar" class="image">
 
-### {% include image.html url="https://github.com/hxfycy/hxfycy.github.io/blob/master/assets/img/projects/proj-5/cv.pdf" image="projects/proj-5/cv_pdf.png" %}
-### [cv](https://raw.githubusercontent.com/hxfycy/hxfycy.github.io/master/assets/img/projects/proj-5/cv_pdf.png)
