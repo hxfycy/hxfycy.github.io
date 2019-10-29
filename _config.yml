@@ -20,7 +20,7 @@ pagination:
 # Social
 email: felixhuxf@gmail.com
 instagram: instagram
-github:  https://github.com/hxfycy
+github:  hxfycy
 
 #Additional Pages
 about: about
@@ -47,13 +47,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: hxfycy #github username
+repo: hxfycy.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+production_url:  https://felixhuxf.com/
+source_url:  https://github.com/hxfycy/hxfycy.github.io #source repository url
 
 exclude:
   - README.md
