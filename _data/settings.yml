@@ -42,7 +42,7 @@ disqus:
 about: >
   # Welcome to my website.
 
-  This is the personal website of Xiaofeng Hu. You can [see my CV at Here](https://hxfycy.github.io/projects/proj-5.html). 
+  This is the personal website of Xiaofeng Hu. You can [see my CV at Here](https://hxfycy.github.io/projects/proj-1.html). 
   
 # <img src="SpellCheck.png" width="50%" height="50%" title="拼写检查工具Grammarly." alt="拼写检查工具Grammarly."/>
 
@@ -55,7 +55,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'About me', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
