@@ -50,8 +50,8 @@ lsi: False
 username: hxfycy #github username
 repo: hxfycy.github.io #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../hxfycy.github.io #source directory
+destination: ../hxfycy.github.io-pages/ #destination directory
 production_url:  https://felixhuxf.com/
 source_url:  https://github.com/hxfycy/hxfycy.github.io #source repository url
 
