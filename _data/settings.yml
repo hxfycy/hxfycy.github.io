@@ -40,16 +40,16 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Welcome to my website.
 
-  This is a personal website of Xiaofeng Hu, a senior undergraduate majored in Electrical and Electronic Engineering. You can see my CV at [Here](https://hxfycy.github.io/projects/proj-5.html). Also, you can use the icons listed at the bottom of website to contact me.
+  This is the personal website of Xiaofeng Hu. You can [see my CV at Here](https://hxfycy.github.io/projects/proj-5.html). 
   
-  #<img src="SpellCheck.png" width="50%" height="50%" title="拼写检查工具Grammarly." alt="拼写检查工具Grammarly."/>
+# <img src="SpellCheck.png" width="50%" height="50%" title="拼写检查工具Grammarly." alt="拼写检查工具Grammarly."/>
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:felixhuxf@gmail.com)
+  You can contact me [through my email](mailto:felixhuxf@gmail.com)
 
 #-------------------------------
 # Work Section
