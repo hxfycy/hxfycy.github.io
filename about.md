@@ -1,1 +1,0 @@
----layout: pagetitle: Aboutpermalink: /about/---<amp-img width="1190" height="3367" layout="responsive" src="https://share.getcloudapp.com/Z4uzrWDX"></amp-img>
