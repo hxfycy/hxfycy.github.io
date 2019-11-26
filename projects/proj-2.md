@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'My internship at NJ'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+I had a wonderful time at Rutgers, NJ, US. Thanks to Prof.Bo Yuan's generous guidance and patience, I finished a three-month internship at Electrical and Computer Engineering Department of Rutgers and submitted one paper to IEEE-ICASSP-2020 <a href="https://github.com/hxfycy/TuckerDecomposition/blob/master/mat/ICASSP_Submitted_Paper.pdf">(Paper url)</a>. I want to sincerely thank all of people I met during the trip at Rutgers, they're so wonderful and it's they who make this trip so unique and meaningful. 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="https://www.ece.rutgers.edu/" image="projects/proj-2/Rutgers.jpg" %}
+{% include image.html url="https://www.ece.rutgers.edu/" image="projects/proj-2/Rutgers2.jpg" %}
+{% include image.html url="https://www.ece.rutgers.edu/" image="projects/proj-2/Rutgers3.jpg" %}
